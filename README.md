@@ -1,4 +1,2 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhijitpavse/abhijitpavse/main/assets/animated-bg.svg" alt="animated background" width="100%" height="150px"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Always+Learning+New+Things" />
 
