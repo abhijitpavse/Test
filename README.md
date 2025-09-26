@@ -48,3 +48,14 @@ Think of it as your **playground 🏖️** for experimenting with markdown, badg
  ┃ ┗ 📄 index.js
  ┣ 📄 README.md
  ┗ 📄 LICENSE
+
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhijitpavse&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/100/f06292/github.png" alt="GitHub Logo" width="70" />
+</p>
+
